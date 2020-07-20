@@ -121,6 +121,7 @@
 - https://www.hackerrank.com/challenges/the-grid-search/problem
 - https://www.hackerrank.com/challenges/the-time-in-words/problem
 - https://www.hackerrank.com/challenges/bear-and-steady-gene/problem
+- https://www.hackerrank.com/challenges/sherlock-and-queries/problem
 
 ### exercism:
 - https://exercism.io/my/solutions/cb796b06fd61455581063e01268037da
