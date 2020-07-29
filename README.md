@@ -91,6 +91,12 @@
 - [ ] https://www.codewars.com/kata/55bfce089ff4227c1a00002b
 - [ ] https://www.codewars.com/kata/52793ed3fdb8e19406000c72/javascript
 - [ ] https://www.codewars.com/kata/5265b0885fda8eac5900093b/javascript
+- [ ] https://www.codewars.com/kata/59ccf051dcc4050f7800008f/train/javascript
+- [ ] https://www.codewars.com/kata/57f44ed37b70985e01000094
+- [ ] https://www.codewars.com/kata/5d0365accfd09600130a00c9/train/javascript
+- [ ] https://www.codewars.com/kata/5bc027fccd4ec86c840000b7
+- [ ] https://www.codewars.com/kata/58c5fca35722de3493000081
+- [ ] https://www.codewars.com/kata/58b34b2951ccdb84f2000093
 
 ### hackerrank:
 - [ ] https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem
