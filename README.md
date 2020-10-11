@@ -135,7 +135,7 @@
 - [ ] https://exercism.io/my/solutions/de6ea2cd6312424ca1952165147b113c
 - [ ] https://exercism.io/my/solutions/7ce783c778a046c0a1039040adbf41df
 - [ ] https://exercism.io/my/solutions/27afe1c3bfe24c7f8e5b9b181984c5c2
-- [ ] https://exercism.io/my/solutions/0aa4ad15f8dd4fb8b3892aaef4877940
+- [x] https://exercism.io/my/solutions/0aa4ad15f8dd4fb8b3892aaef4877940
 - [ ] https://exercism.io/my/solutions/dfc04be044614a8baa55712240a73162
 
 ### freecodecamp:
